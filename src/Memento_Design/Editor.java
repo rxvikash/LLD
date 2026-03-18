@@ -1,3 +1,5 @@
+package Memento_Design;
+
 public class Editor {
 
     private String content ="";

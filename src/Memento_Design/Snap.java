@@ -1,3 +1,5 @@
+package Memento_Design;
+
 public class Snap {
 
     private final String content;
